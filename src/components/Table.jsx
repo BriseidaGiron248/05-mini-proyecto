@@ -13,7 +13,6 @@ const Table = ({ id, name, title, url }) => {
               <td><a href={url}>{title}</a></td>
 
             </tr>
-
           </tbody>
         </table>
       </div>
